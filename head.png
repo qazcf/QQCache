@@ -2,11 +2,11 @@
 	"h_l":[
 		
 		{
-		"host":"asdfnotes",
+		"h_t":"asdfnotes",
 		"proj":"QQCache"
 		},
 		{
-		"host":"qazfnotes",
+		"h_t":"qazfnotes",
 		"proj":"QQCache"
 		}
 	]
