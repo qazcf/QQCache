@@ -1,0 +1,22 @@
+
+{
+    "v_name":"1.0.0",
+    "v_code":"100",
+    "v_desc":"版本描述",
+    "force_update":false,
+    "app_url":"http://xxx.apk",
+    "app_qr_code":"http://xxx.jpg",
+    "app_lisence":"http://xxx.txt",
+    "v_enable":true,
+    "a_month":29.9,
+    "a_tmonth":59.9,
+    "a_forever":99.9,
+    "disamount_m":9.9,
+    "disamount_tm":19.9,
+    "f_seecount":5,
+    "f_fresh_count":5,
+    "can_share":false,
+    "share_add_count":1
+
+}
+
