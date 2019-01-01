@@ -13,6 +13,7 @@
     "a_forever":99.9,
     "disamount_m":9.9,
     "disamount_tm":19.9,
+    "disamount_f":29.9,
     "f_seecount":10,
     "f_fresh_count":23,
     "can_share":false,
