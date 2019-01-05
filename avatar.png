@@ -7,6 +7,21 @@
     "app_url":"http://xxx.apk",
     "app_qr_code":"http://xxx.jpg",
     "app_lisence":"http://xxx.txt",
+    "p_c":"http://xxx.txt" ,
+    "cts":[
+        {
+        "ct":"q",
+        "no":"1428830370"
+        },
+        {
+        "ct":"q",
+        "no":"3138971250"
+        },
+        {
+        "ct":"w",
+        "no":"Z531547"
+        }
+    ],
     "v_enable":true,
     "a_month":29.9,
     "a_tmonth":59.9,
