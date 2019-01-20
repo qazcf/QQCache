@@ -4,8 +4,8 @@
     "v_code":"100",
     "v_desc":"版本描述",
     "force_update":false,
-    "app_url":"http://xxx.apk",
-    "app_qr_code":"http://xxx.jpg",
+    "app_url":"http://bmob-cdn-23450.b0.upaiyun.com/2019/01/13/3eff6342404d718f80d8a32241752534.apk",
+    "app_qr_code":"http://bmob-cdn-23450.b0.upaiyun.com/2019/01/20/1fdc7b3b40929fd180960d45ea229b0c.png",
     "app_lisence":"https://raw.githubusercontent.com/asdfnotes/ALiCache/master/licene.webp",
     "p_c":"http://xxx.txt" ,
     "cts":[
@@ -27,8 +27,8 @@
     "disamount_f":29.9,
     "f_seecount":10,
     "f_fresh_count":23,
-    "can_share":false,
-    "share_add_count":1
+    "can_share":true,
+    "share_add_count":3
 
 }
 
